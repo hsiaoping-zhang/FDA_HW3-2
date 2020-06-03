@@ -143,3 +143,5 @@ Of the 12,330 sessions in the dataset, 84.5% (10,422) were negative class sample
 |   準確率最小值   | 0.8932 | 0.8939 |
 |   準確率最大值   | 0.8944 | 0.8995 |
 | 準確率**平均值** | 0.8938 | 0.8976 |
+
+在加入新增欄位後，準確率有稍稍提升，代表 traffic type 是一個重要指標。
